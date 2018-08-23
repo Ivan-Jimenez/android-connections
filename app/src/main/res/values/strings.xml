@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conexiones</string>
+
+    <string name="available">Disponible</string>
+    <string name="connected">Conectado</string>
+    <string name="checking">Checando</string>
+    <string name="scanning">Buscando</string>
+    <string name="notavailable">No Disponible</string>
+    <string name="notconnected">Desconectado</string>
+    <string name="wifi">WIFI</string>
+    <string name="mobile">DATOS</string>
+    <string name="unknown">DESCONOCIDO</string>
+
+</resources>
